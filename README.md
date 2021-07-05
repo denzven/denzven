@@ -9,9 +9,6 @@ I am a 17 year old wierdo that hops on with tons of hobbies and gets bored easil
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 
 
-### 👩‍💻 Stuff I use for coding and languages I know!
----
-I like to learn new languages! Especially if they have frameworks. Am familiar with Java a lot since I learned it for at least 2 years.
 #### Languages & Framework
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
