@@ -7,7 +7,7 @@ I am a 17 year old wierdo that hops on with tons of hobbies and gets bored easil
 - 💬 Ask me about stuff i know 🤣
 - 📫 How to reach me: [website](https://denzven.pythonanywhere.com)!! or [discord](https://dsc.gg/chilly_place)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: 
+- ⚡ Fun fact: eval is bad, but it works... Kinda...
 
 #### Languages & Framework
 
