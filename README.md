@@ -13,6 +13,7 @@ I am a 17 year old wierdo that hops on with tons of hobbies and gets bored easil
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![python](https://img.shields.io/badge/python-%20000.svg?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%3323ee.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 #### Design
@@ -27,8 +28,8 @@ I am a 17 year old wierdo that hops on with tons of hobbies and gets bored easil
 
 ### 📊 Here are some of my GitHub stats.
 ![stats](https://github-readme-stats.vercel.app/api?username=denzven&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denzven&langs_count=6&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denzven&langs_count=7&theme=tokyonight)
 
 ### Do Check out my [website](https://denzven.pythonanywhere.com)!!
 
-Thank you and have not a good, but a great day!
+Thank you and Dont have a good day, have a great day!
