@@ -41,9 +41,12 @@ I am a 18 year old wierdo that hops on with tons of hobbies and gets bored easil
 
 ### My Art 💜
 
-<img align='left'  src='../Tower_Img.jpg' width='200"'>
-<img align='right' src='../Tree_Img.jpg' width='200"'>
-<img align='left'  src='../Couch_Img.jpg' width='200"'>
+<img align='left'  src='https://raw.githubusercontent.com/denzven/denzven/main/Tower_Img.jpg' width='200"'>
+<img align='right' src='https://raw.githubusercontent.com/denzven/denzven/main/Tree_Img.jpg' width='200"'>
+<img align='left'  src='https://raw.githubusercontent.com/denzven/denzven/main/Couch_Img.jpg' width='200"'>
+<img align='right'  src='https://raw.githubusercontent.com/denzven/denzven/main/Xmas_Vid.mp4' width='200"'>
+
+
 
 ### Do Check out my [website](https://denzven.pythonanywhere.com)!!
 
