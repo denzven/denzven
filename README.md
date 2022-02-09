@@ -41,4 +41,6 @@ I am a 17 year old wierdo that hops on with tons of hobbies and gets bored easil
 
 ### Do Check out my [website](https://denzven.pythonanywhere.com)!!
 
+<img src='https://c.tenor.com/LVp9OTiBkFkAAAAC/dont-have-a-good-day-have-a-great-day.gif'>
+
 Thank you and Dont have a good day, have a great day!
