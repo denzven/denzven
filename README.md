@@ -1,6 +1,7 @@
 ### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hello there! I am Denzven.
 ---
-I am a 18 year old wierdo that hops on with tons of hobbies and gets bored easily. Tried out a bunch of stuff like blender3D, voxel art, making discord bots and telegram bots, basic python programs, basic java programs, right now i am making an Graphing API and its wrapper.
+I am a 21 year old wierdo that hops on with tons of hobbies and gets bored easily. Tried out a bunch of stuff like blender3D, voxel art, making discord bots and telegram bots, basic python programs, basic java programs, right now i am making an Graphing API and its wrapper.
+I belive in being a generalist widening my scope, jack of all trades, but master of None is better than master of one ✨
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
@@ -41,14 +42,12 @@ I am a 18 year old wierdo that hops on with tons of hobbies and gets bored easil
 
 ### My Art 💜
 
-![](https://raw.githubusercontent.com/denzven/denzven/main/Tower_Img.jpg) 
-![](https://raw.githubusercontent.com/denzven/denzven/main/Tree_Img.jpg ) 
-![](https://raw.githubusercontent.com/denzven/denzven/main/Couch_Img.jpg)
-![](https://raw.githubusercontent.com/denzven/denzven/main/Donut_Img.jpg)
+<img src=https://raw.githubusercontent.com/denzven/denzven/main/Tower_Img.jpg width="200"><img src=https://raw.githubusercontent.com/denzven/denzven/main/Tree_Img.jpg width="200">
+<img src=https://raw.githubusercontent.com/denzven/denzven/main/Couch_Img.jpg width="200"><img src=https://raw.githubusercontent.com/denzven/denzven/main/Donut_Img.jpg width="200">
 
 
 ### Do Check out my [website](https://denzven.pythonanywhere.com)!!
 
-<img src='../GreatDay.gif'>
+<img src='https://raw.githubusercontent.com/denzven/denzven/main/GreatDay.gif' width="100">
 
 Thank you and Dont have a good day, have a great day!
